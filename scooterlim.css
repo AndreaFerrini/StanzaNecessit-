@@ -1,0 +1,71 @@
+body {
+  background-image: url(sfondolim.jpg);
+  background-size: 2000px 980px;
+  background-repeat: no-repeat;
+  background-clip: content-box;
+  font-family: 'Roboto', sans-serif;
+}
+header {
+  margin: 3%;
+  border: 50%;
+  padding: inherit;
+}
+section {
+  margin: 10px;
+}
+.container {
+  background-color: black;
+  background: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  width: 60%;
+  height: 70%;
+}
+.logo {
+  text-align: center;
+}
+.imglogo {
+  width: 15%;
+  height: 15%;
+}
+.sottotitolo-scritta {
+  color: #00FF00;
+  font-size: 35px;
+  text-align: center;
+}
+.pulsantiera {
+  text-align: center;
+  background-color: #00FF00;
+  margin: 30px;
+  border: 40px;
+  padding: 10px;
+}
+.batteria1 {
+  background-color: orange;
+  width: 350px;
+  height: 20px;
+}
+.batteria2 {
+  background-color: lightgreen;
+  width: 750px;
+  height: 20px;
+}
+.batteria3 {
+  background-color: red;
+  width: 150px;
+  height: 20px;
+}
+#nome-utente {
+  font-size: 32px;
+  font-weight: bolder;
+  color: white;
+  margin: 6px;
+}
+#indirizzo {
+  color: white;
+  font-weight: lighter;
+}
+#stato {
+  color: white;
+  font-weight: lighter;
+  margin: 2px;
+}
